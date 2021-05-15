@@ -1,6 +1,5 @@
 #!/bin/bash
 cd ~
-cd Deskto
 curl -O http://idea.medeming.com/a/jihuoma.zip
 ditto -V -x -k --sequesterRsrc --rsrc jihuoma.zip dist
 cd dist
