@@ -4,6 +4,7 @@
 快速获取idea激活码到剪贴板
 
 #### 远程调用
+bash -c "$(curl -fsSL http://web-97.github.io/idea-code/command.sh)"
 
 
 #### 安装教程
