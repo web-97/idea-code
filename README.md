@@ -8,7 +8,7 @@
 
 #### 安装教程
 
-1.  git clone https://gitee.com/web97/idea-code.git
+1.  https://github.com/web-97/idea-code.git
 2.  cd idea-code
 3.  chmod -R 777 command.sh
 
