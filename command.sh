@@ -3,8 +3,7 @@ cd ~
 curl -O https://idea.medeming.com/a/jihuoma1.zip
 ditto -V -x -k --sequesterRsrc --rsrc jihuoma1.zip dist
 cd dist
-pbcopy < 2018.2月之后用这个---.txt
-pbcopy < 2018.2月之后用这个---.txt
+pbcopy < 84EPE02Y6A - for 2018.2 or later.txt
 cd ..
 echo "清除残余垃圾......"
 rm jihuoma1.zip
